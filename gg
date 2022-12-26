@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Музыка</title>
+	<style type="text/css">
+		body {
+     background: #FFF;
+     color: #000;
+     font-family: Arial, sans-serif;
+     font-size: 14px;
+}
+
+#head {
+     background: red;
+     width: 100%;
+     height: 10%;
+}
+ 
+#container {
+	background: lime;
+     margin: auto auto;
+     text-align: center;
+   /*  width: 100%;
+     height: 100%;*/
+} 
+#navigation {
+     background: green;
+     float: left;
+     width: 10%;
+     height: 120%;
+     text-align: center;
+}
+
+#main {
+     background: #DCDCDC;
+     text-align: justif;
+     width: 80%;
+     height: 80%;
+}
+#advertisement {
+	background: pink;
+     float: right;
+     width: 10%;
+     height: 100%;
+     text-align: center;
+}
+ 
+#clear {
+     clear: both;	
+}
+ 
+#footer {
+    background: orange ;
+	width: 100%;
+	height: 10%;
+}
+	</style>
+</head>
+<body>
+<div id="container">
+	<div id="head">
