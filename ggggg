@@ -1,57 +1,19 @@
-<html>
-  <head>
-    <title> Все о горах </title>
-  </head>
-<body>
-  <table border="1" bgcolor=#e8e3d4 width=100%>
-    <tr style="text-align:center">
-    <td colspan=2 
-      style="color: #950000;>
-      Шаблон сайта-2</td></tr>
-    <tr><td style="width:20%">
-                             <ul type="square">
-                                              <font color = "494949">
-                             <li>1 Информация</li>
-                             <li>2 Связь с нами</li>
-                             <li>3 Видео </li></td>
-                                                                           </font>
-                             </ul>
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
-                             
+<style>
+div{
+border:spx solid black;
+height:80px
+font-size:70px
+}
+header{
+background-color:#ccc
+}
+left-sidebar{
+background:#ddd
+}
+content{
+background:#bbb
+{
+riht-sidebar
                              
                              
                              
