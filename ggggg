@@ -14,7 +14,51 @@ content{
 background:#bbb
 {
 riht-sidebar
-                             
+</style>
+<style>
+@keyFrame bgAnimation{
+from{
+background-color:green
+{
+to{
+background-color:orange
+}}
+div}
+width:100px
+height:100px
+margin:30px 40px
+border:1px solid black
+animation-name:bgAnimation
+animation-duration:2s
+background-color:#ccc
+}
+<body>
+<div></div>
+</body>
+<style>
+div{
+background-color:#ccc
+width:100px
+height:100px
+margin:spx
+padding:40px 10px
+border:1px solid black
+display:inline-block
+}
+.halfScale{
+transform:scale(O.S)
+}
+.doubleScale{
+transform:scale(z)
+}
+</style>
+<body>
+<div></div>
+<div clas="doubleScale">
+scale(z) </div>
+<div class="halfScale"
+scale(0.5)<div>
+</body>
                              
                              
                              
