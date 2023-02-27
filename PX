@@ -1,0 +1,31 @@
+<head>
+<body>
+@media not screen and (min width:360px)
+and (minheight){
+@media orientation:landscape {
+cover{
+background:uri(bg-1 ypeo)no-repeat
+@media(min-aspect-ratio:9116){
+header{
+background-color:odcafo
+<style>
+<html>
+background:white
+@media screen and (max-width:600px){
+body{background:#foo}
+{
+<style>
+<html>{font-size:14px}
+</style>
+<vl>
+<li>1
+<vl>
+<li>2
+<vl>
+<li>3
+</li>
+</vl>
+<li>
+</vl>
+</li>
+</vl>
