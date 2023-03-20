@@ -1,0 +1,20 @@
+<html>
+<head>
+ display:none
+ visiblty:hidden
+ <div>
+ <style>
+ background#e8bfad
+@media screen  and(win-device-width:1000px){
+div{
+background:#f00
+}}
+@media screen and(min device-width:1100px){
+div{width:900px
+}}
+</style></head><body>
+<div></div></body>
+submenu{
+display:none
+<divclass=submeny></div>
+</html>
