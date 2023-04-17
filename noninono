@@ -4,3 +4,4 @@
 <head>
 <div class=subway>visibilty:visible</div>
 <div class=subway>visibility:none</div>
+<meta name  "view port" content="width="device-width>
