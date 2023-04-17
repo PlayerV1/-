@@ -17,5 +17,8 @@ div{width:900px
 submenu{
 }display:none
 <divclass=submeny></div>
+<media screen and(max-width:px){
+body{background:#foo;}
+{
 </html>
 
