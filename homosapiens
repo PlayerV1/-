@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+div{
+background:#e9bfad
+}
+@media screen and (win-device-width:1000px){
+div{
+background:#foo
+}}
+@media screen and(win-device-width:1100px){
+div{width:900px
+}}
+</style></head><body>
+submeny{
+display:none
+<divclass=submeny/div>
+</head>
+</style>
+</html>
