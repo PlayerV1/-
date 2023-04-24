@@ -19,6 +19,7 @@ submenu{
 <divclass=submeny></div>
 <media screen and(max-width:px){
 body{background:#foo;}
+</head>
 {
 </html>
 
